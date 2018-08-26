@@ -1,3 +1,11 @@
-# Headline
+# Latest
 
-> An awesome project.
+> Latest
+
+# Upcoming
+
+> Upcoming
+
+# History
+
+> History
