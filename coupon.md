@@ -1,3 +1,3 @@
 # Coupons
 
-> Get free coupon codes to aaccess my websites
+> Get free coupon codes to access my websites
